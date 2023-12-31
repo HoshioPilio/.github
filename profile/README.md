@@ -12,14 +12,6 @@ making something carefully and intensely, getting things you don't know yet.
 
 
 
-%%html
-<b>Press play on the music player to keep the tab alive before running the start cell (Uses only 13MB of data)</b><br/>
-<audio src="https://m.soundcloud.com/half-boy-866505525/yoasobi-idol-feat-hatsune-miku" controls>
-
-
-
-[play song form SoundCloud]([[https://soundcloud.com/pengguna/track](https://m.soundcloud.com/half-boy-866505525/yoasobi-idol-feat-hatsune-miku)])
-
 
 
 
