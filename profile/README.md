@@ -12,6 +12,13 @@ making something carefully and intensely, getting things you don't know yet.
 
 
 
+[![Play](https://img.shields.io/badge/Play-SoundCloud-orange?style=for-the-badge&logo=soundcloud)](https://m.soundcloud.com/half-boy-866505525/yoasobi-idol-feat-hatsune-miku)
+
+
+
+
+[play song form SoundCloud]([[https://soundcloud.com/pengguna/track](https://m.soundcloud.com/half-boy-866505525/yoasobi-idol-feat-hatsune-miku)])
+
 
 
 
