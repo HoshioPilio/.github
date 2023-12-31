@@ -9,6 +9,12 @@ and contribute to the growth of the  HoshioPilio community.
 
 <!--
 
+making something carefully and intensely, getting things you don't know yet.
+
+
+
+<!--
+
 
 > Do you hate tacos? me too :)
 🧙 Remember, you can do mighty things with the power of [Markdown](https://docs.github.com/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
