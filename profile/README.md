@@ -12,8 +12,9 @@ making something carefully and intensely, getting things you don't know yet.
 
 
 
-[![Play](https://img.shields.io/badge/Play-SoundCloud-orange?style=for-the-badge&logo=soundcloud)](https://m.soundcloud.com/half-boy-866505525/yoasobi-idol-feat-hatsune-miku)
-
+%%html
+<b>Press play on the music player to keep the tab alive before running the start cell (Uses only 13MB of data)</b><br/>
+<audio src="https://m.soundcloud.com/half-boy-866505525/yoasobi-idol-feat-hatsune-miku" controls>
 
 
 
